@@ -39,7 +39,9 @@ aView.caliber.aspect = 16/9
 // That's All. 
 ```
 
-![GetStarted](https://raw.githubusercontent.com/PaoloCuscela/Caliber/master/Images/GetStarted.png)
+## Overview
+
+![GetStarted](https://raw.githubusercontent.com/PaoloCuscela/Caliber/master/Images/Overview.png)
 
 ## Prerequisites
 
@@ -61,4 +63,4 @@ pod 'Caliber'
 
 ## License
 
-Cards is released under the [MIT License](LICENSE).
+Caliber is released under the [MIT License](LICENSE).
