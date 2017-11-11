@@ -1,0 +1,6 @@
+framework module Caliber {
+  umbrella header "Caliber-umbrella.h"
+
+  export *
+  module * { export * }
+}
